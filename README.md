@@ -14,7 +14,7 @@ npm install
 
 # Executando com Expo 
 ```sh
-expo start
+npm start
 ```
 
 Executar no dispositivo emulador Android
