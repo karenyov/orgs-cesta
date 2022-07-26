@@ -3,6 +3,7 @@ React Native: criando um app [Link](https://cursos.alura.com.br/course/react-nat
 
 # Requisitos
 - [NodeJs](https://nodejs.org/en/).
+- [Expo](https://docs.expo.dev/).
 
 Este projeto também poderá ser executado utilizando o [Expo](https://www.npmjs.com/package/expo) caso esteja instado.
 
