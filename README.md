@@ -18,11 +18,6 @@ npm install
 expo start
 ```
 
-Executar no dispositivo emulador Android
-```sh
-expo run:android
-```
-
 # Screenshots
 <p align="center">
   <img src="https://github.com/karenyov/orgs-cesta/blob/main/app.gif" width="300">
